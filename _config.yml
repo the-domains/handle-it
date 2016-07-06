@@ -1,0 +1,28 @@
+name: Handle It
+favicon: null
+layout_spectrum: 0.6886745502706617
+typography_spectrum: 0.7383421715348959
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.225742619484663
+  lightness: 0.26874897023662925
+  saturation: 0.40451721590943635
+  rhythmicContrast: 0.39821553346700966
+purpose: []
